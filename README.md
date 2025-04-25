@@ -85,6 +85,7 @@ https://saramic.github.io/learning/learning/update/terminal/alacritty/%22home/as
   )
 
 - [ ] https://dotpict.net/
+  - [ ] https://apps.apple.com/au/app/dotpict/id995653343
 - [ ] http://grafx2.chez.com/index.php?static3/downloads
   ```sh
   brew install grafx
