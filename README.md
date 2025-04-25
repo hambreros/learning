@@ -35,8 +35,8 @@ https://saramic.github.io/learning/learning/update/terminal/alacritty/%22home/as
 
 ... pixel art to power some [PixiJS sprites](https://pixijs.com/8.x/playground)
 
-- [ ] How I use GIMP to Make Pixel Art Sprites and Spritesheets for Unity -
-  AtoyK
+- [ ] **How I use GIMP to Make Pixel Art Sprites and Spritesheets for Unity -
+  AtoyK**
 
   [![
     How I use GIMP to Make Pixel Art Sprites and Spritesheets for Unity - AtoyK
@@ -48,7 +48,7 @@ https://saramic.github.io/learning/learning/update/terminal/alacritty/%22home/as
 
 - [ ] which lead me to this next level tutorial
 
-  The Ultimate Pixel Art Tutorial - Saultoons
+  **The Ultimate Pixel Art Tutorial - Saultoons**
 
   [![
     The Ultimate Pixel Art Tutorial - Saultoons
@@ -60,3 +60,26 @@ https://saramic.github.io/learning/learning/update/terminal/alacritty/%22home/as
 
 - [ ] and this full on channel [https://www.youtube.com/@AdamCYounis/videos
   ](https://www.youtube.com/@AdamCYounis/videos)
+  - [ ] in particular
+
+  **Pixel Art Class AdamCYounis (55)**
+
+  [![
+    Pixel Art Class AdamCYounis (55)
+  ](
+    http://img.youtube.com/vi/-hSRLmk3nLo/0.jpg
+  )](
+    https://www.youtube.com/watch?v=-hSRLmk3nLo&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_
+  )
+
+- [ ] worth maybe looking into something like https://www.aseprite.org/
+
+  **Aseprite v1.3 Trailer - Aseprite**
+
+  [![
+    Aseprite v1.3 Trailer - Aseprite
+  ](
+    http://img.youtube.com/vi/4emFL4aV9WM/0.jpg
+  )](
+    https://youtu.be/4emFL4aV9WM
+  )
