@@ -1,0 +1,31 @@
+# https://mise.jdx.dev/tasks/
+
+[tasks.install]
+description = "install dependencies"
+run = "brew bundle"
+
+[tasks."install:confirm"]
+description = "confirm dependencies"
+run = """
+  command -v conda &> /dev/null && \
+    echo "✅ conda in path" || \
+    echo "might need to add to path\n\twith:\n\t\techo 'export PATH=\\"/opt/homebrew/anaconda3/bin:\\$PATH\\"' >> ~/.zshrc"
+"""
+
+[tasks."setup:conda"]
+run = """
+  conda create -n .venv python=3.10.4 --yes
+  # conda init
+  # conda activate .venv
+  conda install \
+    jupyter
+"""
+
+[tasks.setup]
+description = "setup anaconda jupyter notebook environment"
+depends = ["install", "setup:*"]
+
+[tasks.dev]
+description = "run jupyter notebooks"
+depends = ["setup"]
+run = "jupyter notebook"
