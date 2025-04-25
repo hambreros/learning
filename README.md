@@ -96,4 +96,5 @@ https://saramic.github.io/learning/learning/update/terminal/alacritty/%22home/as
   ```
 - [ ] https://store.steampowered.com/app/1204050/Pixel_Studio__pixel_art_editor/
     - [ ] https://apps.apple.com/us/app/pixel-studio-for-pixel-art/id1404203859
+- [ ] https://graphicsgale.com/us/ - (_seems like old Windows_)
 - [ ] pixel art inspiration https://lospec.com/
