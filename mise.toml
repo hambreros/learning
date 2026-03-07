@@ -29,3 +29,6 @@ depends = ["install", "setup:*"]
 description = "run jupyter notebooks"
 depends = ["setup"]
 run = "jupyter notebook"
+
+[tools]
+go = "latest"
